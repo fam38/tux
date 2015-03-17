@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<dico>
+
+    <mot niveau ="1">chat</mot>
+    <mot niveau ="1">chien</mot>
+    <mot niveau ="2">poisson</mot>
+    <mot niveau ="2">serpent</mot>
+    <mot niveau ="3">mamouth</mot>
+    <mot niveau ="4">phenix</mot>
+    <mot niveau ="5">morpion</mot>
+    <mot niveau ="4">otarie</mot>
+    <mot niveau ="3">petro</mot>
+    
+
+
+
+
+</dico>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<ns1:profile
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xmlns:ns1='http://www.ujf-grenoble.fr/profile'
+    xsi:schemaLocation='http://www.ujf-grenoble.fr/profile ../xsd/Profil.xsd'>
+    <ns1:name>Alban</ns1:name>
+    <ns1:avatar>image/tux.jpg</ns1:avatar>
+    <ns1:birthday>2006-05-08</ns1:birthday>
+    <ns1:games>
+        <ns1:game date="2013-12-10">
+            <ns1:time>20</ns1:time>
+            <ns1:word level="1">cle</ns1:word>
+        </ns1:game>
+        
+        <ns1:game date="2013-12-11" found="75%">
+             <ns1:word level="2">indice</ns1:word>
+        </ns1:game>
+        
+        <ns1:game date="2013-12-11">
+            
+            <ns1:word level="2">indice</ns1:word>
+            <ns1:time>20</ns1:time>
+        </ns1:game>
+    </ns1:games>
+
+</ns1:profile>
